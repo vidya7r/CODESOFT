@@ -1,0 +1,19 @@
+# Task 1 – Mobile App Signup Flow
+
+This UI/UX task includes the design of a mobile app signup flow using Figma.
+
+## 🖼️ Screens Designed:
+- Welcome Screen
+- Signup Screen
+- Login Screen
+- Social Login Options (Google, Facebook, Instagram)
+
+## 🛠️ Tools Used:
+- Figma (for design and prototype)
+
+## 📁 Files Included:
+- PNG/JPG screenshots of each screen
+- `.fig` source file (optional)
+
+## 🔗 Navigation Flow:
+User lands on Welcome screen → Clicks “Get Started” → Opens Signup Screen → Can switch to Login → Login via Email or Social Networks.
